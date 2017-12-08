@@ -1,0 +1,26 @@
+CURRENT STATUS: [COLOR springgreen]Good[/COLOR]
+
+[COLOR red]Pro Sport Zone (2017) Muad'Dib Current Version 0.87[/COLOR]
+
+Status:
+        Archives: [COLOR lime]Good[/COLOR]
+        Highlights: [COLOR lime]Good[/COLOR]
+        Reddit Streams: [COLOR yellow]Listings Show - Streams not yet active[/COLOR]
+
+[COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
+
+
+[B][COLOR red]2017/12/08[/COLOR][/B]
+ver 0.87
+    - Icon updates finally done, thanks to Loose Cannon - If not showing up, clear thumbnails and restart Kodi
+    - PRAW base code updated for REDDIT libs
+    - Added Highlights menu for all 4 sports - Links directly to official YouTube channels
+    - Added LiveResolver as required dependency
+    - Now reading into m3u8 to get .ts for live streams, but still not quite there. Continuing to troubleshoot live feeds
+    - Added News and Updates main menu item
+
+
+
+
+
+=
