@@ -9,10 +9,19 @@ Status:
 
 [COLOR red]-------------------------------------------------------------------------------------------------------[/COLOR]
 
+[B][COLOR red]2017/12/11[/COLOR][/B]
+[COLOR lime]ver 0.89[/COLOR]
+    - Updated main Icon for name change - Supplied by an extremely talented artist
+
+[B][COLOR red]2017/12/09[/COLOR][/B]
+[COLOR lime]ver 0.88[/COLOR]
+    - Updated json unpacker
+    - Updated CloudFare anti-bot scraper
+    - Updated main Icon for name change - Supplied by an extremely talented artist
 
 [B][COLOR red]2017/12/08[/COLOR][/B]
 [COLOR lime]Pro Sport name changed to Sports Hub[/COLOR]
-ver 0.87
+[COLOR lime]ver 0.87[/COLOR]
     - Icon updates finally done, thanks to Loose Cannon - If not showing up, clear thumbnails and restart Kodi
     - PRAW base code updated for REDDIT libs
     - Added Highlights menu for all 4 sports - Links directly to official YouTube channels
